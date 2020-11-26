@@ -9,5 +9,5 @@ int main()
 {
     string Read;
     getline(cin, Read);
-    std::cout << Read <<std::endl;
+    std::cout << Read <<std::endl; 
 }
