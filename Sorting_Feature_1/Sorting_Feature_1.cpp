@@ -38,7 +38,7 @@ int main()
 
     for (int n = 0; n < arraySize; n++)
     {
-        std::cout << input[n] << std::endl; //De gesorteerde waardes terug
+        std::cout << "Output" << input[n] << std::endl; //De gesorteerde waardes terug
     }
 }
 
